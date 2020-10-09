@@ -1,2 +1,2 @@
 # Netflix
-Copy du onepage Netflix en HTML5/CSS3
+Copie du onepage Netflix en HTML5/CSS3
